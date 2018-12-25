@@ -1,0 +1,4 @@
+#Mon Dec 24 13:33:29 PST 2018
+base.0=/home/rek/AndroidStudioProjects/google_advanced_android_developer_course/Lesson1/FragmentExample1/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
